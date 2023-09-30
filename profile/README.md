@@ -1,3 +1,7 @@
-# OneUI Widgets
+# Project OneUI
 
-## This is an organization which tries to get OneUI Features on PC. The first project is [One UI Desktop Widgets](https://github.com/oneui-widgets/oneui-desktop-widgets)
+We try to bring OneUI styled features to Windows
+
+- [Samsung Widgets](https://github.com/project-oneui/Samsung-Widgets)
+
+More projects following...
