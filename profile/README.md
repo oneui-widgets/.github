@@ -2,6 +2,6 @@
 
 We try to bring OneUI styled features to Windows
 
-- [Samsung Widgets](https://github.com/project-oneui/Samsung-Widgets)
+- [Galaxy Widgets](https://github.com/project-oneui/Galaxy-Widgets)
 
 More projects following...
